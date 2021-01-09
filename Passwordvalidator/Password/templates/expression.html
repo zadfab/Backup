@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% extends 'start.html' %}
+{% block start %}
+<form action="expressionextended" method="post">
+<h1>Expression evaluator </h1>
+<kbd>Enter the lower bound</kbd> : <input type="text" placeholder="Lowerbound"><br>
+<kbd>Enter the upper bound</kbd>: <input type="text" placeholder="Upperbound"><br>
+    <kbd>Enter the expreesion </kbd>>: <input type="text" placeholder="Expression"><br>
+    <button type="submit">result</button>
+    {% block content %}
+    {% endblock %}
+
+
+</form>
+{% endblock %}
+</body>
+</html>

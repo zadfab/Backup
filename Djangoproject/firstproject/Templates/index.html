@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{%block title%} {%endblock%}</title>
+</head>
+<body>
+<b>
+    {% block body%} {% endblock %}
+    <form action="signup" >
+        <div style="width:42%;height:500px;border:1px solid black;float:left;margin-top:200px;background-color:aqua;">
+                    <div style=" font-size:50px;font-weight:50px;">Personal Detail</div>
+                    <input name="name" type="text" placeholder="Candidate name" style="width:100px;display:block">
+                    <input name="mobile" type="text" placeholder="Mobile number" style="width:100px;display:block">
+                    <input name="email" type="text" placeholder="Email id"><select name="mail">
+                    <option > @gmail.com</option>
+                    <option > @outlook.com</option>
+                    <option > @hotmail.com</option>
+
+
+                </select >
+                    <select name="domain" style="display:block">
+                        <option > select domain</option>
+                        <option > 1</option>
+                        <option >2</option>
+
+
+                    </select>
+                    <select name="course">
+                        <option > select course</option>
+                        <option > Python</option>
+                        <option >java</option>
+                        <option>Php</option>
+
+
+                    </select>
+                    <input name="qualification" type="text" placeholder="Enter qualification ">
+                    <input name="year" type="text" placeholder="Passout Year">
+                    <input name="city" type="text" placeholder="City " style="display:block">
+        </div>
+        <div style="width:2%;height:1000px;float:left"></div>
+        <div style="width:50%;height:500px;border:1px solid black;float:left;margin-top:200px;background-color:aqua; ">
+            <div style="font-size:50px;font-weight:50px;"> Calling Details</div>
+            <input name="details" type="text" placeholder="Student demanded detatils" style="display:block">
+            <input  name="comment" type="text" style="width:180px;height:70px;display:block" placeholder="Write Your Comments">
+            <div style="font-size:50px;font-weight:50px;"> Calling Details</div>
+
+
+
+            <button type="button" style="display:block;float:right;border:none;padding: 15px 20px;text-align:center;text-decoration:none;font-size:20px">Reset</button>
+            <button style="background-color:orange;color:white;float:right;border:none;padding: 15px 20px;text-align:center;text-decoration:none;font-size:20px">Submit</button>
+
+        </div>
+
+    </form>
+</b>
+</body>
+</html>

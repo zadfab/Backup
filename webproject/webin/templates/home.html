@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stud Home</title>
+</head>
+<style>
+    input{margin:30px;background-color:black;color:white}
+    label{font-size:20px;margin-left:30px}
+    button{background-color:#4CAF50;color:white;text-decoration:none;border:none;display:inline-block;font-size:30px;margin-left:400px}
+
+</style>
+<body>
+<form id='check' action="submit" method="post">
+    {% csrf_token %}
+    <div style="width:50%;height:100%;float:left">
+    <label>Enter your name</label><br>
+    <input name="name" type="text" placeholder="Enter student name"><br>
+    <label>Enter your Rollnumber</label><br>
+    <input name="rollno" type="text" placeholder="Enter rollnumber"><br>
+    <label>Enter your Email address</label><br>
+    <input name="email" type="email" placeholder="Enter email"><br>
+    <label>Enter your Course</label><br>
+    <input name="course" type="text" placeholder="Enter course"><br>
+    <label>Enter your Address</label><br>
+    <input name="address" type="text" placeholder="Enter address"><br>
+
+    </div>
+    <div style="width:48%;height:100%;float:left">
+        <label>Enter your city</label><br>
+     <input name="city" type="text" placeholder="city"><br>
+        <label>Enter Year</label><br>
+     <input name="year" type="text" placeholder="year"><br>
+        <label>Write your comments here</label><br>
+     <input name="comment" style="width:500px;height:200px;border" type="text" placeholder="Write comments here">
+        <br>
+        <br>
+        <br>
+        <button form="check" type="submit">Submit</button>
+    </div>
+</form>
+</body>
+</html>

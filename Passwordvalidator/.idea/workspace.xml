@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4570ea96-bcec-4144-851d-75d11530f65f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b75f1R16ScS06qmju8S0xmGSx3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/scratches/DataScience" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../searchengine" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\.PyCharmCE2019.3\config\scratches\DataScience" />
+      <recent name="C:\Users\User\PycharmProjects\Passwordvalidator\primenumber" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Passwordvalidator\primenumber" />
+      <recent name="C:\Users\User\PycharmProjects\Passwordvalidator\primenumber\asseccthis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Speech_to_text">
+    <configuration name="ASCII_converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Passwordvalidator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/ASCII_converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pandas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Passwordvalidator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Passwordvalidator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches/DataScience" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/DataScience/Pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Speech_to_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Passwordvalidator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Speech_to_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="minimal_pair_product_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Passwordvalidator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/minimal_pair_product_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Speech_to_text" />
+        <item itemvalue="Python.Pandas (1)" />
+        <item itemvalue="Python.Pandas" />
+        <item itemvalue="Python.ASCII_converter" />
+        <item itemvalue="Python.minimal_pair_product_sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4570ea96-bcec-4144-851d-75d11530f65f" name="Default Changelist" comment="" />
+      <created>1587970390843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587970390843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="179" key="#Argentina" timestamp="1589270380871">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="686" y="179" key="#Argentina/0.0.1920.1050@0.0.1920.1050" timestamp="1589270380871" />
+    <state x="414" y="180" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591380267994">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591380267994" />
+    <state x="92" y="92" width="1736" height="866" maximized="true" key="DiffContextDialog" timestamp="1593538664273">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" maximized="true" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593538664273" />
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1591036425144">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591036425144" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1593538664226">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1591034496795">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1050@0.0.1920.1050" timestamp="1591034496795" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593538664226" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1593538664226">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1591034496795">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1050@0.0.1920.1050" timestamp="1591034496795" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593538664226" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1593538664226">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1591034496795">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1050@0.0.1920.1050" timestamp="1591034496795" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593538664226" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1593538664226">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1591034496795">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="271" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1050@0.0.1920.1050" timestamp="1591034496795" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593538664226" />
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom" timestamp="1591827060878">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591827060878" />
+    <state width="1899" height="352" key="GridCell.Tab.1.center" timestamp="1591827060864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591827060864" />
+    <state width="1899" height="352" key="GridCell.Tab.1.left" timestamp="1591827060864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591827060864" />
+    <state width="1899" height="352" key="GridCell.Tab.1.right" timestamp="1591827060864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591827060864" />
+    <state x="463" y="171" key="SettingsEditor" timestamp="1592086479657">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="463" y="171" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592086479657" />
+    <state x="681" y="266" width="540" height="524" key="StructurePopup" timestamp="1588238984712">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="266" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1588238984712" />
+    <state x="766" y="218" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589270323797">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="766" y="218" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1589270323797" />
+    <state x="533" y="264" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589568636065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="533" y="264" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1589568636065" />
+    <state x="605" y="252" width="737" height="606" key="find.popup" timestamp="1591264642587">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="605" y="252" width="737" height="606" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1591264642587" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1593196355668">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1593196355668" />
+  </component>
+</project>

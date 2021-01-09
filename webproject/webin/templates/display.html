@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student detail</title>
+</head>
+
+ <h1>This is page is meant to display details of students</h1>
+ <h2>
+{{webname}} is saved in first table</h2>
+
+{{webroll}}is saved in first table<br>
+    <b>
+ {{comment}}is saved in second table</b>
+</body>
+<form action="info" method="post">
+    {% csrf_token %}
+    <button type="submit">Click to show data stored is database</button>
+</form>
+
+<form action="product">
+
+</form>
+</html>

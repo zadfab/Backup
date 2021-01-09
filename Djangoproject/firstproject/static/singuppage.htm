@@ -1,0 +1,47 @@
+<script src="jquery-1.11.2.min.js"></script>
+<script>
+function hy(e){
+if (e.keyCode>=48 && e.keyCode<58){
+alert("Number in Username not Allowed")
+return false
+}
+}
+
+function pp(){
+$("button").css("background-color","white").css("color","black");
+$("#su").show();
+
+}
+</script>
+
+<style>
+.pdcenter{
+padding-left:800px;
+padding-top:80px;
+}
+.tt{
+font-weight:30px;
+font-size:40px;
+}
+</style>
+
+
+<img style="border:2px solid black;width:100%;height:100%;z-index:-1;position:absolute" src="download.jpg">
+<h1 class="pdcenter" style="color:white;font-weight:40px;font-size:100px">Signup Page</h1>
+
+<div  style="margin-left:600px;height:600px;width:800px;background-color:white;border:1px solid black;">
+<img style="margin-left:300px;margin-top:30px;" src="images1.jpg">
+
+
+<div style="padding-left:300px;">
+	<div class="tt"> Enter new username</div>
+		<input style="width:300px;height:40px" type="text" placeholder="Username"  onkeypress="return hy(event)">
+	<div class="tt">Enter your password</div>
+		<input style="width:300px;height:40px;"  type="text" placeholder="*******" maxlength="12">
+		<div style="width:100%">
+		<button style="background-color:black;color:white;border:3px solid black;font-size:40px;margin-left:70px;margin-top:30px" onclick="pp()">Signup</button>
+		</div>
+		<div id="su" style="color:green;display:none;font-size:40px;">Signup successfully Done!</div>
+	</div>
+	
+</div>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% extends 'results.html'%}
+
+
+{% block content %}
+<h3>Searched Details</h3>
+<h2>
+    {% for i in filter %}
+    <div style="width:25%;height:200px;background-color:aqua;color:blue">
+   Name : {{i.name}}<br>
+   Rollnumber : {{i.rollnumber}}<br>
+   Address : {{i.address}}<br>
+    </div>
+    <br>
+    <br>
+    <br>
+
+    {% endfor %}<br>
+    <br>
+    <br>
+
+</h2>
+
+
+
+
+
+{% endblock %}
+<h1>Testing purpose</h1>>
+
+
+</body>
+</html>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="685ac39f-e30b-4c00-a2ee-23c52bcc893e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g5398DP6UQ8TO6Rq3z6VekV898" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\.PyCharmCE2019.3\config\scratches\My_lil_projects\Songs_downloader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Alarm_clock">
+    <configuration name="Alarm-Clock (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Youtube_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Alarm-Clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Alarm-Clock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Youtube_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Desktop\Alarm-Clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Alarm_clock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Youtube_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches/TKinter(GUI)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/TKinter(GUI)/Alarm_clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Spotify_downloader_ver2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Youtube_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches/My_lil_projects/Songs_downloader" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/My_lil_projects/Songs_downloader/Spotify_downloader_ver2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkgui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Youtube_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches/TKinter(GUI)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/TKinter(GUI)/tkgui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Alarm_clock" />
+        <item itemvalue="Python.Alarm-Clock (1)" />
+        <item itemvalue="Python.tkgui" />
+        <item itemvalue="Python.Spotify_downloader_ver2.0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="685ac39f-e30b-4c00-a2ee-23c52bcc893e" name="Default Changelist" comment="" />
+      <created>1597390471197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597390471197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599330143368">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="718" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1599330143368" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1599329094053">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1599329094053" />
+    <state width="1899" height="226" key="GridCell.Tab.0.bottom" timestamp="1599514548359">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1072" height="131" key="GridCell.Tab.0.bottom/0.0.1093.584@0.0.1093.584" timestamp="1597391629831" />
+    <state width="1259" height="130" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599259688075" />
+    <state width="1345" height="242" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598638072226" />
+    <state width="1899" height="226" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1599514548359" />
+    <state width="1899" height="226" key="GridCell.Tab.0.center" timestamp="1599514548359">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1072" height="131" key="GridCell.Tab.0.center/0.0.1093.584@0.0.1093.584" timestamp="1597391629831" />
+    <state width="1259" height="130" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599259688075" />
+    <state width="1345" height="242" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598638072226" />
+    <state width="1899" height="226" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1599514548359" />
+    <state width="1899" height="226" key="GridCell.Tab.0.left" timestamp="1599514548359">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1072" height="131" key="GridCell.Tab.0.left/0.0.1093.584@0.0.1093.584" timestamp="1597391629830" />
+    <state width="1259" height="130" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599259688074" />
+    <state width="1345" height="242" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598638072226" />
+    <state width="1899" height="226" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1599514548359" />
+    <state width="1899" height="226" key="GridCell.Tab.0.right" timestamp="1599514548359">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1072" height="131" key="GridCell.Tab.0.right/0.0.1093.584@0.0.1093.584" timestamp="1597391629831" />
+    <state width="1259" height="130" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599259688075" />
+    <state width="1345" height="242" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598638072226" />
+    <state width="1899" height="226" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1599514548359" />
+    <state width="1899" height="284" key="GridCell.Tab.1.bottom" timestamp="1598898580730">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598898580730" />
+    <state width="1899" height="284" key="GridCell.Tab.1.center" timestamp="1598898580730">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598898580730" />
+    <state width="1899" height="284" key="GridCell.Tab.1.left" timestamp="1598898580714">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598898580714" />
+    <state width="1899" height="284" key="GridCell.Tab.1.right" timestamp="1598898580730">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598898580730" />
+    <state x="531" y="260" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598898600720">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="531" y="260" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1598898600720" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1599068391095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599068391095" />
+  </component>
+</project>

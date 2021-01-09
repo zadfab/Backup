@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+
+<form action="search" method="post">
+    {% csrf_token %}
+<h3>Form  name : {{name}} successfully saved </h3>
+<br>
+<br>
+<br>
+<h2>Search Your information by your Name</h2><br>
+    <input name="searchboxlike" type="text" placeholder="Search"><button type="submit"><i class="fa fa-search"></i></button>
+
+
+
+{% block content %}
+
+
+{% endblock %}
+</form>
+    <style>
+h1{
+color:blue;background-color:aqua;
+}
+</style>
+
+    <div style="background-color:aqua;width:100%;height:60px">
+        <h1>  Search by selection </h1>
+    </div>
+
+    <form action="checkbox" method="post">
+        {% csrf_token %}
+        <h3>Select your id :</h3>
+        <input type="text" name="searchbox" list="select">
+        <datalist id="select">
+            {% for index in id %}
+            <option value="{{index.rollnumber}}">{{index.rollnumber}} </option>
+            {% endfor %}
+
+        </datalist>
+        </input>
+
+        <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+    </form>
+
+
+
+
+
+</body>
+</html>

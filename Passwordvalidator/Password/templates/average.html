@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Average String</title>
+</head>
+{% extends 'start.html' %}
+{% block start %}
+
+
+
+<b>
+<form action="avg" method="post">
+    {% csrf_token %}
+<kbd>
+    <label>Enter your sentence here :</label>
+    <input  name="string" type="text" placeholder="Your string goes like 'once upon a time . . . ' "><br>
+    <button type="submit">GO -></button>
+</kbd></form>
+<div style="width:100px;height:50px;color:blue;background-color:aqua;border:5px solid red;padding-left:40px;padding-top:20px">
+{% block content %}
+{% endblock %}
+</div>
+</b>
+<form method="post" action="scribble">
+    {% csrf_token %}
+    <input  name="string" type="text" placeholder="Your scribbles. ' "><br>
+    <kbd>For SCribble Value Press the button -></kbd><button type="submit">Scribble</button>
+</form>
+{% endblock %}
+</body>
+</html>

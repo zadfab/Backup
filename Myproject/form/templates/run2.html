@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+
+<script>
+function getstate(){
+var cid= $("#cid").val();
+alert("Country code : "+cid+" found ");
+
+ $.ajax({
+        url: 'getstate',
+        data: {
+          'cid': cid
+        },
+        dataType: 'json',
+})
+
+}
+</script>
+<form action="getcid" method="post">
+    {% csrf_token %}
+
+<h1>Select Your Country</h1>
+<select id="cid" onchange="getstate()">
+    {% for i in countryname %}
+    <option value="{{i.cid}}">{{i.countryname}} </option>
+    {% endfor %}
+
+</select>
+<br>
+<br>
+<br>
+<br>
+
+<h1>Select Your State</h1>
+<select>
+    {% for i in statename %}
+    <option value="{{i.sid}}">{{i.statename}} </option>
+
+    {% endfor %}
+
+    <button type="submit">submit</button>
+
+</select>
+</form>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+</head>
+
+
+
+<h1>Welcome to Student Form</h1>
+
+<form action="submitform" method="post">
+{% csrf_token %}
+<pre>
+<label for="name"> Enter your Name</label>   :<input name="name" id="name" type="text" placeholder="Your name" >
+</pre>
+<br>
+
+
+<pre>
+<label for="rn"> Enter your RollNumber</label>   :<input name="rollnumber" id="rn" type="text" placeholder="Your rollnumber" >
+</pre>
+<br>
+
+<pre>
+<label for="address"> Enter your address</label>   :<input  name="address" id="address" type="text" placeholder="Your address" >
+</pre>
+<br>
+    <button type="submit" >Submit </button>
+</form>
+</body>
+</html>

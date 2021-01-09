@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("#button").click(function(){
+            alert("click");
+            $.post("jq_aj",{
+                name: "zaid",
+                password: "12345",
+
+            },funtion(data,status){
+                $("#show").html(data);
+                alert(status);
+            });
+        });
+
+    });
+
+</script>
+<body>
+<div id="show">Hello </div>
+<button id="button">submit</button>
+</body>
+</html>

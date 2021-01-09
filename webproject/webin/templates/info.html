@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{ font-size:30px;font-weight:30px;}
+
+    </style>
+</head>
+<body>
+{% load static %}
+All names stored in database__
+{{obj}}<br><br><br><br>
+
+
+
+        {% for index in obj %}
+        {{index.name}} ---
+
+        <a href="{{index.get_absolute_url}}">Check to get the detail of {{index.name}}</a> <! --product/{{index.id}}-->
+
+        <br>
+        {% endfor %}
+
+
+<h1>comments are-------</h1>
+
+
+         {% for index1 in obj1 %}
+         {{index1.comment}}<br>
+         {% endfor %}
+
+
+
+{% block content%}
+{% endblock %}
+</body>
+</html>

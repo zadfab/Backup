@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DEFAULT PAGE</title>
+</head>
+
+<h1>THIS IS THE FIRST PAGE </h1><br>
+
+{% load static %}
+<img src="{% static '1.jpg' %}" >
+<form action="home" id="no" method="post">
+    {% csrf_token %}
+
+    <input name="name" type="text" placeholder="Enter your name"><br>
+    <input name="email" type="email" placeholder="Enter your email address"><br>
+    <input name="password1" type="password" placeholder="Enter your password">
+    <input name="password2" type="password" placeholder="confirm password"><br>
+    <input name="date" type="date" ><br>
+
+<button  form="no" type="submit" aria-hidden="true">Signup</button>
+</form>
+
+</body>
+</html>

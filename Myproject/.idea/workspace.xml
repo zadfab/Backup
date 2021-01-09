@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11105936-fd9b-4344-89d8-3c51e9b57ff0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZCGvZVBopiKxPvdGzM1Emz68fp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
+  </component>
+  <component name="RunManager" selected="Python.SpyLife">
+    <configuration name="DAteformatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/DAteformatting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpyLife" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/SpyLife.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="strip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/strip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SpyLife" />
+        <item itemvalue="Python.DAteformatting" />
+        <item itemvalue="Python.strip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11105936-fd9b-4344-89d8-3c51e9b57ff0" name="Default Changelist" comment="" />
+      <created>1584335893964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584335893964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="187" key="#Notifications" timestamp="1584708974993">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="187" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1584708974993" />
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1586271412523">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586271412523" />
+    <state width="1921" height="292" key="GridCell.Tab.0.bottom" timestamp="1586274746835">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586274746835" />
+    <state width="1921" height="292" key="GridCell.Tab.0.center" timestamp="1586274746835">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586274746835" />
+    <state width="1921" height="292" key="GridCell.Tab.0.left" timestamp="1586274746835">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586274746835" />
+    <state width="1921" height="292" key="GridCell.Tab.0.right" timestamp="1586274746835">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586274746835" />
+    <state width="1921" height="360" key="GridCell.Tab.1.bottom" timestamp="1585937128016">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585937128016" />
+    <state width="1921" height="360" key="GridCell.Tab.1.center" timestamp="1585937128016">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585937128016" />
+    <state width="1921" height="360" key="GridCell.Tab.1.left" timestamp="1585937128016">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585937128016" />
+    <state width="1921" height="360" key="GridCell.Tab.1.right" timestamp="1585937128016">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="360" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585937128016" />
+    <state x="463" y="171" key="SettingsEditor" timestamp="1584778197900">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="463" y="171" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584778197900" />
+    <state x="533" y="264" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585932191288">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="533" y="264" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1585932191288" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{%block title%} {%endblock%}</title>
+</head>
+<body>
+<b>
+    hello {{name}} enter your detail here
+    <form action="login" method="post">
+        {% csrf_token %}
+        <input name="user" type="text " placeholder="Userid">
+        <input name="pass" type="password " placeholder="password">
+
+
+        <input type="submit">
+    </form>
+
+
+
+</b>
+</button>
+</body>
+</html>
