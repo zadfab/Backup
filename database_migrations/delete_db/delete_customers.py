@@ -12,7 +12,7 @@ sheet = wb.sheet_by_index(0)
 sheet.cell_value(0, 0)
 
 index = 0
-for i in range(sheet.nrows):
+for i in range(370,sheet.nrows):
     if index == 0:
 
         print(sheet.cell_value(i, 1),end=" ")
@@ -33,17 +33,15 @@ for i in range(sheet.nrows):
         else:
             address2 = sheet.cell_value(i,9)
 
-        res = requests.post("http://18.216.163.168:83/api/v1/ezzytrace/create_user/",
-                            { "email" : sheet.cell_value(i,7), "password" : "12345678", "security_question" : "First School?", "security_answer" : "sen", "is_customer" : "True" }
+        res = requests.delete(f"http://18.216.163.168:83/api/v1/ezzytrace/customers/{sheet.cell_value(i, 1)}",
 
-                             )
-        if res.status_code !=201:
-            print("cant created",end=" ")
-        print(sheet.cell_value(i, 1)," ->",res.json())
+                            )
+        try:
+            print(sheet.cell_value(i, 1),res.json())
+        except:
+            print(sheet.cell_value(i, 1),' : deleted')
     # if index == 1:
     #     break
-    #
+    # #
     # #
     index+=1
-
-    """{ "email" : "customer1@gmail.com", "password" : "12345678", "security_question" : "First School?", "security_answer" : "sen", "is_customer" : "True" } """

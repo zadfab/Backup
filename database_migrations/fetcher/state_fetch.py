@@ -5,7 +5,7 @@ states = {"Barbuda":3,"Redonda":4,"St. George":11,"St. John":12,"St. Mary":13,"S
 
 import xlrd
 import os
-file_name = "customer_data.xlsx"
+file_name = "new_customer_data.xlsx"
 excel_path = os.path.join(r"C:\Users\User\Pictures\Screenshots",file_name)
 wb = xlrd.open_workbook(excel_path)
 sheet = wb.sheet_by_index(0)
@@ -17,7 +17,7 @@ for i in range(sheet.nrows):
         if index == 0:
             pass
         else:
-            print(states[sheet.cell_value(i, 10)])
+            print(states[sheet.cell_value(i, 37)])
         index+=1
     except:
         pass
